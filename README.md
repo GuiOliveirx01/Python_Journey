@@ -1,3 +1,3 @@
-# starting_python
+# Python_Journey
 Learning Python language
 
